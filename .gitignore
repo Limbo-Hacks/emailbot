@@ -1,0 +1,8 @@
+*.DS_Store
+.vscode/
+*.pyc
+__pycache__/
+*.pkl
+*.p
+env/
+pip_modules/
